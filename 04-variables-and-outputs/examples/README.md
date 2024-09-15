@@ -64,7 +64,7 @@ output "instance_ip_addr" {
 
 Sample output:
 ```
-db_instance_addr = "terraform-20210504182745335900000001.cr2ub9wmsmpg.us-east-1.rds.amazonaws.com"
+db_instance_addr = "terraform-20210504182745335900000001.cr2ub9wmsmpg.us-west-2.rds.amazonaws.com"
 instance_ip_addr = "172.31.24.95"
 ```
 

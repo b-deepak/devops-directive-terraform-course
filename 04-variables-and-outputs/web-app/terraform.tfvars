@@ -1,4 +1,4 @@
-bucket_prefix = "devops-directive-web-app-data"
+bucket_prefix = "devops-terraform-course-web-app-data"
 domain        = "devopsdeployed.com"
 db_name       = "mydb"
 db_user       = "foo"
